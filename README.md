@@ -1,7 +1,7 @@
 
 
 
-<img width="1536" height="1024" alt="Gold_price+pred" src="https://github.com/user-attachments/assets/939c5a5c-25e3-45c9-8aa5-575a5b8dddf4" />
+<img width="500" height="800" alt="Gold_price+pred" src="https://github.com/user-attachments/assets/939c5a5c-25e3-45c9-8aa5-575a5b8dddf4" />
 
 
 
